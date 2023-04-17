@@ -70,14 +70,6 @@ Follow these steps to enable Azure AD SSO in the Azure portal.
 
    ![Edit Basic SAML Configuration](common/edit-urls.png)
 
-1. On the **Basic SAML Configuration** section, perform the following steps:
-
-    a. In the **Identifier** text box, type a URL using the following pattern:
-    `https://<customidentifier>.kornferry.com/`
-
-     b. In the **Sign-on URL** text box, type a URL using the following pattern:
-    `https://surveys.kornferry.com/<customidentifier>`
-
     > [!NOTE]
     > These values are not real. Update these values with the actual Identifier and Sign-on URL. Contact [Korn Ferry 360 Client support team](mailto:george.gold@kornferry.com) to get these values. You can also refer to the patterns shown in the **Basic SAML Configuration** section in the Azure portal.
 
